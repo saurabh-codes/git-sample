@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    /* box-sizing: border-box; */
+}
+
+.nav{
+    height: 80px;
+    background-color: black;
+    color: wheat;
+}
+
+.nav-p{
+    font-size: 20px;
+}
+
+
+.hero{
+    height: 100vh;
+    background-color: #000456;
+    color: #904453;
+    border: 1px solid black;
+    /* text-align: center; */
+    /* margin-top: 50px; */
+}
+
+.hero-h2{
+    margin-top: 80px;
+}
+
+
+.footer{
+    height: 40px;
+    background-color: black;
+    color: wheat;
+}
